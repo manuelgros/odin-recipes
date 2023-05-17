@@ -1,6 +1,6 @@
 /* Style.css is currently only implemented in index.html*/
 
-* {
+*:not(.centerlist li) {
   text-align: center;
 }
 
