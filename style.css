@@ -2,11 +2,19 @@
   text-align: center;
 }
 
+
+/* Setting alignment for UL and OL with the class centerlist to center including the bullets */
 div.container {
   text-align: center;
 }
 
-ul.myUL {
+ul.centerlist {
   display: inline-block;
   text-align: left;
 }
+
+ol.centerlist {
+  display: inline-block;
+  text-align: left;
+}
+/*End*/
