@@ -21,3 +21,9 @@ ol.centerlist {
   text-align: left;
 }
 /*End*/
+
+.nutrition {
+  color: gray;
+  font-style: italic;
+  font-size: 14px;
+}
