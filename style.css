@@ -2,6 +2,7 @@
 
 body:not(.centerlist li) {
   text-align: center;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
 
