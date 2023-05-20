@@ -24,8 +24,8 @@ h3 {
   color: gray;
   font-style: italic;
   font-size: 14px;
+  margin-top: 3em;
 }
-
 
 
 /* Setting alignment for UL and OL with the class centerlist to center including the bullets,
