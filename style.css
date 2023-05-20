@@ -67,24 +67,3 @@ h3 {
   background-color: #6BAA75;
 }
 
-
-
-
-/* Setting alignment for UL and OL with the class centerlist to center including the bullets,
-temporarily taken out for testing other solutions.
-
-div.container {
-  text-align: center;
-}
-
-ul.centerlist {
-  display: inline-block;
-  text-align: left;
-}
-
-ol.centerlist {
-  display: inline-block;
-  text-align: left;
-}
-
-End*/
