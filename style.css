@@ -8,6 +8,15 @@ html {
   font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
+a {
+  text-decoration: none;
+  color: #6BAA75;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
 h1, h2 { 
   text-align: center; 
 }
@@ -22,6 +31,7 @@ h3 {
 
 .container {
   text-align: initial;
+  margin: auto;
 }
 
 
@@ -41,7 +51,7 @@ h3 {
 
 }
 
-.buttons a:visited, a:link {
+.buttons a {
   margin: 20px;
   padding: 5px 10px;
   background-color: #2D3142;
