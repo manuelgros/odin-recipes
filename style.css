@@ -67,3 +67,10 @@ h3 {
   background-color: #6BAA75;
 }
 
+/* Style for Images in Index / Landing page */
+
+.recipes img:hover {
+  box-sizing: border-box;
+  border: solid 4px #6BAA75;
+  
+}
