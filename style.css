@@ -27,6 +27,9 @@ h3 {
   margin-top: 3em;
 }
 
+.buttons {
+  text-align: center;
+}
 
 /* Setting alignment for UL and OL with the class centerlist to center including the bullets,
 temporarily taken out for testing other solutions.
