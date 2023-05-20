@@ -6,6 +6,18 @@ html {
   font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
+h1, h2 { 
+  text-align: center; 
+}
+
+h3 {
+  display: inline-block;
+  padding-right: 5px;
+  margin-bottom: -10px;
+  border-bottom: solid 2px red;
+  border-right: solid 2px red;
+}
+
 
 .nutrition {
   text-align: center;
