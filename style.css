@@ -16,8 +16,8 @@ h3 {
   display: inline-block;
   padding-right: 5px;
   margin-bottom: -10px;
-  border-bottom: solid 2px red;
-  border-right: solid 2px red;
+  border-bottom: solid 3px #6BAA75;
+  border-right: solid 3px #6BAA75;
 }
 
 .container {
