@@ -1,12 +1,22 @@
 /* Style.css is currently only implemented in index.html*/
 
-body:not(.centerlist li) {
-  text-align: center;
+html {
+
   font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
 
-/* Setting alignment for UL and OL with the class centerlist to center including the bullets */
+.nutrition {
+  color: gray;
+  font-style: italic;
+  font-size: 14px;
+}
+
+
+
+/* Setting alignment for UL and OL with the class centerlist to center including the bullets,
+temporarily taken out for testing other solutions.
+
 div.container {
   text-align: center;
 }
@@ -20,10 +30,5 @@ ol.centerlist {
   display: inline-block;
   text-align: left;
 }
-/*End*/
 
-.nutrition {
-  color: gray;
-  font-style: italic;
-  font-size: 14px;
-}
+End*/
