@@ -13,7 +13,7 @@ a {
   color: #6BAA75;
 }
 
-a:hover{
+a:hover {
   text-decoration: underline;
 }
 
@@ -53,7 +53,8 @@ h3 {
 
 }
 
-.buttons a {
+.buttons > a:link,
+.buttons > a:visited {
   margin: 20px;
   padding: 5px 10px;
   background-color: #2D3142;
@@ -61,7 +62,8 @@ h3 {
   text-decoration: none;
 }
 
-.buttons a:hover, a:active{
+.buttons > a:hover, 
+.buttons > a:active{
   background-color: #6BAA75;
 }
 
