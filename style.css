@@ -1,5 +1,5 @@
-/* Style.css is currently only implemented in index.html*/
 
+/* General styling for website*/
 html {
   text-align: center;
   width: 630px;
@@ -29,6 +29,7 @@ h3 {
   border-right: solid 3px #6BAA75;
 }
 
+/* Recipe list container*/
 .container {
   text-align: initial;
   margin: auto;
