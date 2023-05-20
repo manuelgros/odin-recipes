@@ -1,6 +1,7 @@
 /* Style.css is currently only implemented in index.html*/
 
 html {
+  text-align: center;
   width: 630px;
   margin: auto;
   font-family: Helvetica, 'Times New Roman', sans-serif;
@@ -16,6 +17,10 @@ h3 {
   margin-bottom: -10px;
   border-bottom: solid 2px red;
   border-right: solid 2px red;
+}
+
+.container {
+  text-align: initial;
 }
 
 
