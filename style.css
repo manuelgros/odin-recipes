@@ -1,12 +1,14 @@
 /* Style.css is currently only implemented in index.html*/
 
 html {
-
+  width: 630px;
+  margin: auto;
   font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
 
 .nutrition {
+  text-align: center;
   color: gray;
   font-style: italic;
   font-size: 14px;
