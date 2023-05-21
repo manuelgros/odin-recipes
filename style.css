@@ -74,10 +74,14 @@ h3 {
   background-color: #6BAA75;
 }
 
-/* Style for Images in Index / Landing page */
+/* Style for Images in Index / Landing page: hover effect and border around .recipes */
 
 .recipes img:hover {
-  box-sizing: border-box;
+  opacity: 0.7;
   border: solid 4px #6BAA75;
-  
+}
+
+.recipes {
+  padding: 30px 0;
+  margin: px;
 }
