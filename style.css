@@ -2,7 +2,7 @@
 /* General styling for website*/
 html {
   text-align: center;
-  width: 630px;
+  max-width: 630px;
   margin: auto;
   background-color: papayawhip;
   font-family: Helvetica, 'Times New Roman', sans-serif;
