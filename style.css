@@ -19,14 +19,14 @@ a:hover {
 
 h1, h2 { 
   text-align: center; 
+  border-bottom: double 8px #6BAA75;
 }
 
 h3 {
   display: inline-block;
   padding-right: 5px;
   margin-bottom: -10px;
-  border-bottom: solid 3px #6BAA75;
-  border-right: solid 3px #6BAA75;
+  padding-left: 20px;
 }
 
 /* Recipe list container*/
