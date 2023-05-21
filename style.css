@@ -25,14 +25,7 @@ h1, h2 {
   text-align: center;
 }
 
-h3 {
-  display: inline-block;
-  padding-right: 5px;
-  margin-bottom: -10px;
-  padding-left: 20px;
-}
-
-/* Recipe list container*/
+/* .container clas styling for the recipe pages */
 .container {
   text-align: initial;
   margin: auto;
@@ -40,6 +33,13 @@ h3 {
 
 .container h2 {
   border-bottom: double 8px #6BAA75;
+}
+
+.container h3 {
+  display: inline-block;
+  padding-right: 5px;
+  margin-bottom: -10px;
+  padding-left: 20px;
 }
 
 /* Styling for the Note section on the recipe pages*/
