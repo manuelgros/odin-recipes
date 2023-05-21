@@ -7,7 +7,7 @@
 html {
   text-align: center;
   max-width: 630px;
-  margin: auto;
+  margin: 0 auto;
   background-color: papayawhip;
   font-family: Helvetica, 'Times New Roman', sans-serif;
 }
@@ -25,10 +25,6 @@ h1, h2 {
   text-align: center;
 }
 
-h2 {
-  border-bottom: double 8px #6BAA75;
-}
-
 h3 {
   display: inline-block;
   padding-right: 5px;
@@ -42,6 +38,28 @@ h3 {
   margin: auto;
 }
 
+.container h2 {
+  border-bottom: double 8px #6BAA75;
+}
+
+/* Styling for the Note section on the recipe pages*/
+.notes {
+  margin: 30px 0;
+  padding: 10px 0;
+  text-align: initial;
+  margin: auto;
+  background-color: rgb(79, 93, 117, 0.2);
+  color: #2D3142;
+  border: dashed 2px #2D3142;
+  
+}
+ .notes h2 {
+  font-size: larger;
+  text-align: initial;
+  padding-left: 20px;
+  margin-bottom: -5px;
+
+ }
 
 /* Formatting the Nutrition section at the end of recipes */
 .nutrition {
