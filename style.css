@@ -18,7 +18,10 @@ a:hover {
 }
 
 h1, h2 { 
-  text-align: center; 
+  text-align: center;
+}
+
+h2 {
   border-bottom: double 8px #6BAA75;
 }
 
