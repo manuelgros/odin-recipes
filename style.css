@@ -6,10 +6,15 @@
 }
 html {
   text-align: center;
-  max-width: 630px;
+  max-width: 750px;
   margin: 0 auto;
   background-color: papayawhip;
   font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+body {
+  background-color: rgb(63, 69, 49, 0.2);
+  padding: 20px;
 }
 
 a {
