@@ -108,3 +108,17 @@ h1, h2 {
   padding: 30px 0;
   margin: px;
 }
+
+/* set up flexbox layout for Shepherds pie page */
+
+.flex {
+  display: flex;
+}
+
+.meat {
+  flex: 1;
+}
+
+.mash {
+  flex: 1;
+}
